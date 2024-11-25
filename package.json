@@ -43,6 +43,7 @@
   },
   "dependencies": {
     "nanoid": "^5.0.8",
+    "openai-realtime-api": "^1.0.7",
     "ws": "^8.18.0"
   },
   "devDependencies": {
